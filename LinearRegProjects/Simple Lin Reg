@@ -1,0 +1,11 @@
+You are given a real estate dataset.
+
+Real estate is one of those examples that every regression course goes through as it is extremely easy to understand and there is a (almost always) certain causal relationship to be found.
+
+The data is located in the file: 'real_estate_price_size.csv'.
+
+You are expected to create a simple linear regression (similar to the one in the lecture), using the new data.
+
+In this exercise, the dependent variable is 'price', while the independent variables is 'size'.
+
+Good luck!
